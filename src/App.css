@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: black;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+  font-family: 'Arial', serif;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.Counter-button {
+    width: 150px;
+    font-size: 100px;
+}
+
+.Increment-button {
+  padding: 14px;
+  width: 75px;
+  font-size: 14px;
+}
+
+.Decrement-button {
+  padding: 14px;
+  width: 75px;
+  font-size: 14px;
+}
+
+.Countdown-button {
+  padding: 14px;
+  width: 150px;
+  font-size: 14px;
+}
+
+/*@keyframes App-logo-spin {*/
+  /*from { transform: rotate(0deg); }*/
+  /*to { transform: rotate(360deg); }*/
+/*}*/
